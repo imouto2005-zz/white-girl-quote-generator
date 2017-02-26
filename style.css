@@ -1,0 +1,17 @@
+h1 {
+  font-family: Amatic SC;
+  font-size: 70px;
+}
+
+.fa-twitter {
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+button {
+	background-color: #f9a94d;
+	border-color: #ff6e2b;
+	border-width: 3px;
+	font-family: Fredoka One;
+	border-radius: 4px;
+}
